@@ -1,0 +1,204 @@
+.fullscreeninvo {
+    display: block;
+}
+
+.smallscreeninvo {
+    display: none;
+}
+
+@media (max-width: 1400px) {
+    .fullscreeninvo {
+        display: none;
+    }
+
+    .smallscreeninvo {
+        display: block;
+    }
+}
+
+.image {
+    position: relative; /* Or relative for positioning relative to a parent */
+    top: -15px; /* Adjust position values as needed */
+    right: 10px;
+    float: right;
+    width: 50px; /* Optional: Set width or height if desired */
+    height: 50px; /* Maintain aspect ratio */
+    margin-top: 0;
+  }
+  
+
+.invoice-head{
+    top: 20px;
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-left: 15px;
+    position: relative;
+    text-align: left;
+}
+
+
+.biller-name {
+    top: 55px;
+    margin-bottom: 0;
+    left: 30px;
+    position: relative;
+    text-align: right;
+}
+
+.biller-location {
+    top: 55px;
+    left: 30px;
+    margin-right: 0px;
+    position: relative;
+    text-align: right;
+}
+
+.customer-name {
+  
+    top:0px;
+    margin-bottom: 0;
+    margin-left: 15px;
+    position: relative;
+    text-align: left;
+}
+
+.customer-location {
+
+    top:0px;
+    margin-left: 15px;
+    position: relative;
+    text-align: left;
+}
+
+.Invoice-no {
+    margin-top: 35px;
+    margin-bottom: 0px;
+    margin-right: 123px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    text-align: right;
+}
+
+.Invoice-date {
+    margin-right: 47px;
+    margin-bottom: 0px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    text-align: right;
+}
+
+.Invoice-due {
+    margin-right: 15px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    text-align: right;
+}
+
+.fotter-firstL-Isuuer {
+    font-weight: bold;
+    color: black;
+    font-size: small;
+}
+
+.fotter-firstL-IsuuerText {
+    color: grey;
+    font-size: small;
+}
+
+.fotter-firstL-Email {
+    font-weight: bold;
+    color: black;
+    font-size: small;
+
+}
+
+.fotter-firstL-EmailText {
+    color: grey;
+    font-size: small;
+
+}
+
+.fotter-firstL-Phone {
+    font-weight: bold;
+    color: black;
+    font-size: small;
+}
+
+.fotter-firstL-PhoneText {
+    color: grey;
+    font-size: small;
+}
+
+.fotter-secondL-Website {
+    font-weight: bold;
+    margin-left: 120px;
+    color: black;
+    font-size: small;
+}
+
+.fotter {
+    position: relative;
+    top: 28vw;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.fotter-secondL-head {
+    font-weight: bold;
+    display: inline-flex;
+    color: black;
+    font-size: small;
+    position: relative;
+    top: 470px;
+    left: 35px;
+}
+
+.fotter-secondL-IsuuerText {
+    color: grey;
+    font-size: small;
+    position: relative;
+    top: 430px;
+    left: 40px;
+}
+
+.Table-header {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #bdd5dd;
+    position: relative;
+    top: 90px;
+    text-align: center;
+}
+
+.Table-header td {
+    padding: 8px;
+    /* Adjust the padding as needed */
+}
+
+.Table-item {
+    color: black;
+    font-weight: normal;
+    position: relative;
+    top: 100px;
+    left: 5px;
+    text-align: center;
+}
+
+.total {
+    color: black;
+    font-weight: bold;
+    top: 25vw;
+    margin-right: 50px;
+    position: relative;
+    text-align: right;
+}
+

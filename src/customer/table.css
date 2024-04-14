@@ -1,0 +1,16 @@
+.simple-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .simple-table th, .simple-table td {
+    border: 1px solid #40434E;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .simple-table th {
+    background-color: #2c3A42;
+    color: #f0efef;
+  }
+  

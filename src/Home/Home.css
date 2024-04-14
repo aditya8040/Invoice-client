@@ -1,0 +1,70 @@
+.home-text{
+   font-family:unset;
+   font-size:  3vw;
+   font-weight: bolder;
+   position: unset;
+   margin:auto;
+   color: #2C3A42;
+  }
+
+
+  .line {
+    border-top: 0.4vw solid #fd5424; /* Adjust color and size as needed */
+    margin: 20px 0; /* Add margin for spacing */
+    border-radius: 10px;
+  }
+
+  .firstimg {
+    /* Or relative for positioning relative to a parent */
+    float: inline-start;
+    top: 25px; /* Adjust position values as needed */
+    right: 10px;
+    float: left;
+    width: 190px; /* Optional: Set width or height if desired */
+    height:auto; /* Maintain aspect ratio */
+    margin-top: 15;
+  }
+  .secondimg {
+     /* Or relative for positioning relative to a parent */
+     float: left;
+    top: 15px; /* Adjust position values as needed */
+    
+    float: right;
+    width: 250px; /* Optional: Set width or height if desired */
+    height:auto; /* Maintain aspect ratio */
+    margin-top: 0;
+  }
+  .thirdimg {
+  position: relative; /* Or relative for positioning relative to a parent */
+    top: 15px; /* Adjust position values as needed */
+    left: -100px;
+    float: right;
+    width: 350px; /* Optional: Set width or height if desired */
+    height:auto; /* Maintain aspect ratio */
+    margin-top: 0;
+  }
+  .firstImgText {
+    position: absolute;
+    font-family:unset;
+    top: 520px;
+    left: 300px;
+    text-wrap: balance;
+    width: 270px;
+ }
+  .secondImgText {
+    position: absolute;
+    font-family:unset;
+    top: 520px;
+    left: 730px;
+    text-wrap: balance;
+    width: 280px;
+  }
+  .thirdImgText {
+    position: absolute;
+    font-family:unset;
+    top: 520px;
+    left: 1150px;
+    text-wrap: balance;
+    width: 250px;
+  }
+  

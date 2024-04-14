@@ -1,0 +1,151 @@
+/* .biller-name{
+    margin-top: 35px;
+    margin-bottom: 0;
+    margin-right: 15px;
+    position: relative;
+    text-align: right;
+    }
+     
+    .biller-location{
+    margin-right: 15px;
+    position: relative;
+    text-align: right;
+    }
+    
+    .customer-name{
+        margin-top: 35px;
+        margin-bottom: 0;
+        margin-left: 15px;
+        position: relative;
+        text-align: left;
+    }
+    .customer-location{
+        margin-left: 15px;
+        position: relative;
+        text-align: left;
+    }
+     */
+    .Invoice-no-print {
+        margin-top: 35px;
+        margin-bottom: 0px;
+        margin-right: 131px;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+        position: relative;
+        text-align: right;
+    }  
+/*     
+    .Invoice-date {
+        margin-right: 47px;
+        margin-bottom: 0px;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+        position: relative;
+        text-align: right;
+    }
+    
+    .Invoice-due {
+        margin-right: 15px;
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+        position: relative;
+        text-align: right;
+    }
+    
+    .fotter-firstL-Isuuer {
+        font-weight: bold;
+        color: black;
+        font-size: small;
+    }
+    
+    .fotter-firstL-IsuuerText {
+        color: grey;
+        font-size: small;
+    }
+    
+    .fotter-firstL-Email {
+        font-weight: bold;
+        color: black;
+        font-size: small;
+    
+    }
+    
+    .fotter-firstL-EmailText {
+        color: grey;
+        font-size: small;
+    
+    }
+    
+    .fotter-firstL-Phone {
+        font-weight: bold;
+        color: black;
+        font-size: small;
+    }
+    .fotter-firstL-PhoneText {
+        color: grey;
+        font-size: small;
+    }
+    
+    .fotter-secondL-Website{
+        font-weight: bold;
+        margin-left: 120px;
+            color: black;
+        font-size: small;
+    }
+    
+    .fotter {
+        position: relative;
+        top: 28vw;
+        width: 450px; 
+        margin: 0 auto; 
+    }
+    
+    .fotter-secondL-head {
+        font-weight: bold;
+        display: inline-flex;
+        color: black;
+        font-size: small;
+        position: relative;
+        top: 470px;
+        left: 35px;
+    }
+    
+    .fotter-secondL-IsuuerText {
+        color: grey;
+        font-size: small;
+        position: relative;
+        top: 430px;
+        left: 40px;
+    }
+    
+    .Table-header {
+        color: black;
+        background-color: #bdd5dd;
+        font-weight: bold;
+        position: relative;
+        top: 90px;
+        left: 30px;
+        text-align: center;
+    }
+    
+    .Table-item {
+        color: black;
+        font-weight: normal;
+        position: relative;
+        top: 100px;
+        left: 15px;
+        text-align: center;
+    }
+    
+     .total {
+        color: black;
+        font-weight: bold;
+        top: 25vw;
+        margin-right: 50px;
+        position: relative;
+        text-align: right;
+     
+    }   */
